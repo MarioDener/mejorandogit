@@ -1,0 +1,35 @@
+commit 3c6bde2f63c9a8a2c356a36a6c2a8531b20f41e9
+Author: Mario Sanchez <MarioJose1693@gmail.com>
+Date:   Mon Jun 22 21:20:12 2015 -0600
+
+    Agregando mi portafolio
+
+commit a05c43b534203ce96642b6c92fdfe0e88197f467
+Author: Mario Sanchez <MarioJose1693@gmail.com>
+Date:   Mon Jun 22 21:19:20 2015 -0600
+
+    Agregando descripcion
+
+commit ceeec439c37df4ba226bc213c89ebdc2d3b8c0ea
+Author: Mario Sanchez <MarioJose1693@gmail.com>
+Date:   Mon Jun 22 21:18:06 2015 -0600
+
+    Agrege redes sociales
+
+commit 6eb549b426ed9652eb64cfb52c9b11bda270080e
+Author: Mario Sanchez <MarioJose1693@gmail.com>
+Date:   Mon Jun 22 21:16:12 2015 -0600
+
+    Perfil Web escrito
+
+commit 6132338403828412e3241b3246b13ea7917d094d
+Author: Mario Sanchez <MarioJose1693@gmail.com>
+Date:   Mon Jun 22 21:13:45 2015 -0600
+
+    Subi foto de perfil y nombre
+
+commit 983b038ac2b1dfbc26d2707462511a4a2831b927
+Author: Mario Sanchez <MarioJose1693@gmail.com>
+Date:   Mon Jun 22 21:08:14 2015 -0600
+
+    Estos son los archivos base de mi portafolio
